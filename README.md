@@ -1,6 +1,6 @@
 # Hello, I'm Mina! 👋
 
-## 👨‍💻📚 About Me
+## 👨‍💻✨ About Me
 
 I'm a teaching associate and master's student, passionate about Machine Learning, Artificial Intelligence and Advanced Database concepts. 🚀
 
